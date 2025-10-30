@@ -1,7 +1,11 @@
 public class DesignProject {
+    // ATRIBUTOS
+    private String projectCode;
+    private String designType;
+    private String company;
 
     // Constructor que inicializa los atributos
-    public DesignProject(String projectCode, String designType, String client) {
+    public DesignProject(String projectCode, String designType, String company) {
         this.projectCode = projectCode;
         this.designType = designType;
         this.company = company;

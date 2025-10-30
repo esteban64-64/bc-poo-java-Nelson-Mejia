@@ -45,37 +45,38 @@ public class Main {
     );
 
         // cliente 1
-        client client1 = new client(
-                "Maria Valencia"
-                "1023456951"
-                "3205976431"
+        Client client1 = new Client(
+                "Maria Valencia",
+                1023456951,
+                320597643
+
         );
 
         // cliente 2
-        client client2 = new client(
-                "Oscar Gomez"
-                "1023435671"
-                "3178930519"
+        Client client2 = new Client(
+                "Oscar Gomez",
+                1023435671,
+                317893051
         );
         // cliente 3
-        client client3 = new client(
-                "Juan Ardila"
-                "1649355671"
-                "3108997519"
+        Client client3 = new Client(
+                "Juan Ardila",
+                1649355671,
+                310899751
         );
 
         // cliente 4
-        client client4 = new client(
-                "Sebastian Cota"
-                "53149763"
-                "3229783156"
+        Client client4 = new Client(
+                "Sebastian Cota",
+                53149763,
+                322978315
         );
 
         // cliente 5
-        client client5 = new client(
-                "Laura Mendez"
-                "79846359"
-                "3502197832"
+        Client client5 = new Client(
+                "Laura Mendez",
+                79846359,
+                350219783
         );
 
         // INSTRUCCIÓN 3: Llamar showInfo() para cada objeto

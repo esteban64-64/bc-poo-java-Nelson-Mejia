@@ -1,7 +1,13 @@
 public class Client { // Atributos String projectCode; String designType; String client;
 
+    // ATRIBUTOS
+    private String name;
+    private int id;
+    private int cell;
+
+
     // Constructor que inicializa los atributos
-    public client(String name, String id, String cell) {
+    public Client(String name, int id, int cell) {
         this.name = name;
         this.id = id;
         this.cell = cell;
