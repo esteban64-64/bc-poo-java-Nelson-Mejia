@@ -1,3 +1,4 @@
+package co.edu.sena.DesignProject;
 public class Client {
     // ====== Atributos ======
     private String clientCode;     // Código único del cliente

@@ -1,3 +1,4 @@
+package co.edu.sena.DesignProject;
 public class DesignProject {
     // ====== Atributos ======
     private String projectCode;      // Código del proyecto

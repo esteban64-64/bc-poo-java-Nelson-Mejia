@@ -1,3 +1,5 @@
+package co.edu.sena.DesignProject;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== SISTEMA DE GESTIÓN - PIXEL CREATIVO ===\n");
