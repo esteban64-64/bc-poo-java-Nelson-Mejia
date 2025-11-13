@@ -1,4 +1,6 @@
-package co.edu.sena.DesignProject;
+package co.edu.sena.DesignProject.semana1;
+
+
 public class DesignProject {
     // ====== Atributos ======
     private String projectCode;      // Código del proyecto

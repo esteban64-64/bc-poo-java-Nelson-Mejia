@@ -1,4 +1,10 @@
-package co.edu.sena.DesignProject;
+package co.edu.sena.DesignProject.semana1;
+
+import java.util.ArrayList;
+
+import co.edu.sena.DesignProject.semana1.Client;
+import co.edu.sena.DesignProject.semana1.DesignProject;
+
 public class Client {
     // ====== Atributos ======
     private String clientCode;     // Código único del cliente

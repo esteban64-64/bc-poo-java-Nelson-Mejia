@@ -1,4 +1,5 @@
-package co.edu.sena.DesignProject;
+package co.edu.sena.DesignProject.semana1;
+
 
 public class Main {
     public static void main(String[] args) {
