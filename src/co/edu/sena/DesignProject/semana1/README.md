@@ -1,5 +1,3 @@
-4 - Diseño de Clases y Programación Orientada a Objetos
-
 ## 📝 Descripción
 
 Durante esta semana se implementó el dominio **Pixel Creativo**, una agencia de diseño gráfico ubicada en Bogotá.  
