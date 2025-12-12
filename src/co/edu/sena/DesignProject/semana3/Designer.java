@@ -232,4 +232,4 @@ public class Designer {
         return String.format("Designer[%s - %s - %s - Rating: %.2f]",
                 designerCode, name, specialty, rating);
     }
-}
+} // fin

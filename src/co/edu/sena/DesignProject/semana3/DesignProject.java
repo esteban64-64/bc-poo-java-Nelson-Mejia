@@ -210,4 +210,4 @@ public class DesignProject {
     public String toString() {
         return String.format("Project[%s - %s - $%.2f]", projectCode, designType, calculateFinalCost());
     }
-}
+} // fin

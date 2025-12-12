@@ -243,4 +243,4 @@ public class Main {
         System.out.println("║     Encapsulación y Constructores aplicados    ║");
         System.out.println("╚════════════════════════════════════════════════╝\n");
     }
-}
+}  // fin

@@ -248,4 +248,5 @@ public class Material {
         return String.format("Material[%s - %s - %d units - $%.2f]",
                 materialCode, materialType, quantity, unitCost);
     }
-}
+} // fin
+
